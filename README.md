@@ -1,6 +1,6 @@
 # Project_Augmata
 
-A mixed reality headset for consumer purposes.
+A mixed reality headset.
 
 Stages-
 	
@@ -13,3 +13,11 @@ Stages-
 	3. Static 3D elements
 	
 	4. Dynamic 3D elements
+	
+Completed till 17 March 2019 (Tech Evince)
+
+	* Use ArUco markers for localization
+	
+	* Use OpenCV to find homography and projection matrix
+	
+	* Use OpenGL to load and render the object
