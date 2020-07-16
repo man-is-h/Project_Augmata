@@ -8,4 +8,3 @@ Stages-
 	2. Static Notifications
 	3. Static 3D elements
 	4. Dynamic 3D elements
-	
